@@ -2,20 +2,33 @@
 #include "TSystem.h"
 
 void rootlogon(){
-	gSystem->Load("FnuG4_C"); // after compilation of FnuG4_C.dll
-	gSystem->Load("libRIO");
-    gSystem->Load("libMatrix");
-    gSystem->Load("libHist");
-    gSystem->Load("libGraf");
-    gSystem->Load("libNet");
-    gSystem->Load("libGpad");
-    gSystem->Load("libGraf3d");
-    gSystem->Load("libTree");
-    gSystem->Load("libTreePlayer");
+  gSystem->Load("FnuG4_C"); // after compilation of FnuG4_C.dll
+  gSystem->Load("libRIO");
+  gSystem->Load("libMatrix");
+  gSystem->Load("libHist");
+  gSystem->Load("libGraf");
+  gSystem->Load("libNet");
+  gSystem->Load("libGpad");
+  gSystem->Load("libGraf3d");
+  gSystem->Load("libTree");
+  gSystem->Load("libTreePlayer");
+
+  gSystem->Load("libEve");
+  //gSystem->Load("libEbase");
+  gSystem->Load("libvt");
+  gSystem->Load("libMatrix");
+  gSystem->Load("libEmath");
+  gSystem->Load("libEdb");
+  gSystem->Load("libEbase");
+  gSystem->Load("libEdr");
+  gSystem->Load("libEphys");
+  gSystem->Load("libEIO");
+  gSystem->Load("libEDA");
+
     //gErrorIgnoreLevel=5000;
     //gDebug=7;
-    gSystem->Load("/afs/cern.ch/user/j/jegao/virtualrec/FnuG4/virtualrec_c");
-    gSystem->AddIncludePath(" -I/afs/cern.ch/user/j/jegao/virtualrec/Fedra/include");
+    gSystem->Load("virtualrec_c");
+    gSystem->AddIncludePath(" -I../Fedra/include");
 }
 
 //----------------------------------------------------------
