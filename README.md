@@ -13,6 +13,6 @@ Then, you can run virtualrec.c by root simply.
 
 -bash-4.2$ root -l -b virtualrec.c
 
-Output is saved as run_virtualrec.log.
+Output in the first trial was saved as run_virtualrec.log.
 
 
