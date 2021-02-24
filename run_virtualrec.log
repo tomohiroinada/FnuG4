@@ -1,0 +1,521 @@
+Open Xin's file
+
+
+
+
+ [[[[[ iev 0 ]]]]] nhits=10299 
+e_beam 0.000000 id_beam 0 x_beam 0.000000 y_beam 0.000000 pdgnu_nuEvt -14 pdglep_nuEvt -14 Enu_nuEvt 59245.899200 Plep_nuEvt 34668.498993 cc_nuEvt 0 x_nuEvt 9.471657 y_nuEvt 111.097064 z_nuEvt -436.426151 nhits 10299 ncharged hits 1639
+86 particles 
+28 primaries
+ id 58, charged
+stop z = -395200.000000
+   2ry daughter   602 Low energy, stop.
+   2ry daughter   601 Low energy, stop.
+ id 57, charged
+stop z = -436750.000000
+ id 54, charged
+stop z = -431600.000000
+ id 53, charged
+stop z = -413400.000000
+   2ry daughter  1923 Low energy, stop.
+ id 49, charged
+stop z = -435500.000000
+ id 48, charged
+stop z = -431600.000000
+   2ry daughter  4887 charged, follow down.
+stop z = -384800.000000
+ id 45, charged
+stop z = -436750.000000
+ id 44, charged
+stop z = -421200.000000
+ id 43, charged
+stop z = -436750.000000
+   2ry daughter  6727 Low energy, stop.
+   2ry daughter  6726 Low energy, stop.
+ id 40, charged
+stop z = -401700.000000
+ id 39, charged
+stop z = -436750.000000
+ id 38, charged
+stop z = -436750.000000
+ id 35, charged
+stop z = -248300.000000
+   2ry daughter 17572 Low energy, stop.
+   2ry daughter 17571 charged, follow down.
+stop z = -132600.000000
+    3ry daughter 17766 Low energy, stop.
+    3ry daughter 17765 Low energy, stop.
+    3ry daughter 17762 charged, follow down.
+stop z = -98800.000000
+     4ry daughter 19486 charged, follow down.
+stop z = 5200.000000
+      5ry daughter 20297 Low energy, stop.
+ id 34, charged
+stop z = -395200.000000
+   2ry daughter 20702 Low energy, stop.
+   2ry daughter 20701 Low energy, stop.
+   2ry daughter 20700 Low energy, stop.
+   2ry daughter 20699 Low energy, stop.
+ id 29, charged
+stop z = -436750.000000
+ id 28, charged
+stop z = -436750.000000
+ id 23, charged
+stop z = -436750.000000
+ id 22, charged
+stop z = -434200.000000
+ id 17, charged
+stop z = -435500.000000
+ id 16, charged
+stop z = -436750.000000
+   2ry daughter 27471 Low energy, stop.
+ id 12, charged
+stop z = -436750.000000
+ id 11, charged
+stop z = -435500.000000
+   2ry daughter 29281 Low energy, stop.
+ id 10, charged
+stop z = -435500.000000
+   2ry daughter 29683 Low energy, stop.
+ id 5, charged
+stop z = -436750.000000
+ id 4, charged
+stop z = -429000.000000
+ id 3, charged
+stop z = -430300.000000
+   2ry daughter 32318 charged, follow down.
+stop z = -425100.000000
+ id 2, charged
+stop z = -395200.000000
+   2ry daughter 32537 Low energy, stop.
+ id 1, charged
+stop z = -169000.000000
+   2ry daughter 34528 charged, follow down.
+stop z = -123500.000000
+   2ry daughter 34448 Low energy, stop.
+   2ry daughter 34447 Low energy, stop.
+   2ry daughter 34446 Low energy, stop.
+   2ry daughter 34445 Low energy, stop.
+   2ry daughter 34443 charged, follow down.
+stop z = -161200.000000
+    3ry daughter 39276 Low energy, stop.
+   2ry daughter 34442 charged, follow down.
+stop z = -89700.000000
+    3ry daughter 40221 Low energy, stop.
+[iev 0] 0 tracks reached the end of FASERnu
+
+
+
+
+ [[[[[ iev 1 ]]]]] nhits=10299 
+e_beam 0.000000 id_beam 0 x_beam 0.000000 y_beam 0.000000 pdgnu_nuEvt -14 pdglep_nuEvt -14 Enu_nuEvt 59245.899200 Plep_nuEvt 34668.498993 cc_nuEvt 0 x_nuEvt 9.471657 y_nuEvt 111.097064 z_nuEvt -436.426151 nhits 10299 ncharged hits 1639
+86 particles 
+28 primaries
+ id 58, charged
+stop z = -395200.000000
+   2ry daughter   602 Low energy, stop.
+   2ry daughter   601 Low energy, stop.
+ id 57, charged
+stop z = -436750.000000
+ id 54, charged
+stop z = -431600.000000
+ id 53, charged
+stop z = -413400.000000
+   2ry daughter  1923 Low energy, stop.
+ id 49, charged
+stop z = -435500.000000
+ id 48, charged
+stop z = -431600.000000
+   2ry daughter  4887 charged, follow down.
+stop z = -384800.000000
+ id 45, charged
+stop z = -436750.000000
+ id 44, charged
+stop z = -421200.000000
+ id 43, charged
+stop z = -436750.000000
+   2ry daughter  6727 Low energy, stop.
+   2ry daughter  6726 Low energy, stop.
+ id 40, charged
+stop z = -401700.000000
+ id 39, charged
+stop z = -436750.000000
+ id 38, charged
+stop z = -436750.000000
+ id 35, charged
+stop z = -248300.000000
+   2ry daughter 17572 Low energy, stop.
+   2ry daughter 17571 charged, follow down.
+stop z = -132600.000000
+    3ry daughter 17766 Low energy, stop.
+    3ry daughter 17765 Low energy, stop.
+    3ry daughter 17762 charged, follow down.
+stop z = -98800.000000
+     4ry daughter 19486 charged, follow down.
+stop z = 5200.000000
+      5ry daughter 20297 Low energy, stop.
+ id 34, charged
+stop z = -395200.000000
+   2ry daughter 20702 Low energy, stop.
+   2ry daughter 20701 Low energy, stop.
+   2ry daughter 20700 Low energy, stop.
+   2ry daughter 20699 Low energy, stop.
+ id 29, charged
+stop z = -436750.000000
+ id 28, charged
+stop z = -436750.000000
+ id 23, charged
+stop z = -436750.000000
+ id 22, charged
+stop z = -434200.000000
+ id 17, charged
+stop z = -435500.000000
+ id 16, charged
+stop z = -436750.000000
+   2ry daughter 27471 Low energy, stop.
+ id 12, charged
+stop z = -436750.000000
+ id 11, charged
+stop z = -435500.000000
+   2ry daughter 29281 Low energy, stop.
+ id 10, charged
+stop z = -435500.000000
+   2ry daughter 29683 Low energy, stop.
+ id 5, charged
+stop z = -436750.000000
+ id 4, charged
+stop z = -429000.000000
+ id 3, charged
+stop z = -430300.000000
+   2ry daughter 32318 charged, follow down.
+stop z = -425100.000000
+ id 2, charged
+stop z = -395200.000000
+   2ry daughter 32537 Low energy, stop.
+ id 1, charged
+stop z = -169000.000000
+   2ry daughter 34528 charged, follow down.
+stop z = -123500.000000
+   2ry daughter 34448 Low energy, stop.
+   2ry daughter 34447 Low energy, stop.
+   2ry daughter 34446 Low energy, stop.
+   2ry daughter 34445 Low energy, stop.
+   2ry daughter 34443 charged, follow down.
+stop z = -161200.000000
+    3ry daughter 39276 Low energy, stop.
+   2ry daughter 34442 charged, follow down.
+stop z = -89700.000000
+    3ry daughter 40221 Low energy, stop.
+[iev 1] 0 tracks reached the end of FASERnu
+
+
+
+
+ [[[[[ iev 2 ]]]]] nhits=10299 
+e_beam 0.000000 id_beam 0 x_beam 0.000000 y_beam 0.000000 pdgnu_nuEvt -14 pdglep_nuEvt -14 Enu_nuEvt 59245.899200 Plep_nuEvt 34668.498993 cc_nuEvt 0 x_nuEvt 9.471657 y_nuEvt 111.097064 z_nuEvt -436.426151 nhits 10299 ncharged hits 1639
+86 particles 
+28 primaries
+ id 58, charged
+stop z = -395200.000000
+   2ry daughter   602 Low energy, stop.
+   2ry daughter   601 Low energy, stop.
+ id 57, charged
+stop z = -436750.000000
+ id 54, charged
+stop z = -431600.000000
+ id 53, charged
+stop z = -413400.000000
+   2ry daughter  1923 Low energy, stop.
+ id 49, charged
+stop z = -435500.000000
+ id 48, charged
+stop z = -431600.000000
+   2ry daughter  4887 charged, follow down.
+stop z = -384800.000000
+ id 45, charged
+stop z = -436750.000000
+ id 44, charged
+stop z = -421200.000000
+ id 43, charged
+stop z = -436750.000000
+   2ry daughter  6727 Low energy, stop.
+   2ry daughter  6726 Low energy, stop.
+ id 40, charged
+stop z = -401700.000000
+ id 39, charged
+stop z = -436750.000000
+ id 38, charged
+stop z = -436750.000000
+ id 35, charged
+stop z = -248300.000000
+   2ry daughter 17572 Low energy, stop.
+   2ry daughter 17571 charged, follow down.
+stop z = -132600.000000
+    3ry daughter 17766 Low energy, stop.
+    3ry daughter 17765 Low energy, stop.
+    3ry daughter 17762 charged, follow down.
+stop z = -98800.000000
+     4ry daughter 19486 charged, follow down.
+stop z = 5200.000000
+      5ry daughter 20297 Low energy, stop.
+ id 34, charged
+stop z = -395200.000000
+   2ry daughter 20702 Low energy, stop.
+   2ry daughter 20701 Low energy, stop.
+   2ry daughter 20700 Low energy, stop.
+   2ry daughter 20699 Low energy, stop.
+ id 29, charged
+stop z = -436750.000000
+ id 28, charged
+stop z = -436750.000000
+ id 23, charged
+stop z = -436750.000000
+ id 22, charged
+stop z = -434200.000000
+ id 17, charged
+stop z = -435500.000000
+ id 16, charged
+stop z = -436750.000000
+   2ry daughter 27471 Low energy, stop.
+ id 12, charged
+stop z = -436750.000000
+ id 11, charged
+stop z = -435500.000000
+   2ry daughter 29281 Low energy, stop.
+ id 10, charged
+stop z = -435500.000000
+   2ry daughter 29683 Low energy, stop.
+ id 5, charged
+stop z = -436750.000000
+ id 4, charged
+stop z = -429000.000000
+ id 3, charged
+stop z = -430300.000000
+   2ry daughter 32318 charged, follow down.
+stop z = -425100.000000
+ id 2, charged
+stop z = -395200.000000
+   2ry daughter 32537 Low energy, stop.
+ id 1, charged
+stop z = -169000.000000
+   2ry daughter 34528 charged, follow down.
+stop z = -123500.000000
+   2ry daughter 34448 Low energy, stop.
+   2ry daughter 34447 Low energy, stop.
+   2ry daughter 34446 Low energy, stop.
+   2ry daughter 34445 Low energy, stop.
+   2ry daughter 34443 charged, follow down.
+stop z = -161200.000000
+    3ry daughter 39276 Low energy, stop.
+   2ry daughter 34442 charged, follow down.
+stop z = -89700.000000
+    3ry daughter 40221 Low energy, stop.
+[iev 2] 0 tracks reached the end of FASERnu
+
+
+
+
+ [[[[[ iev 3 ]]]]] nhits=10299 
+e_beam 0.000000 id_beam 0 x_beam 0.000000 y_beam 0.000000 pdgnu_nuEvt -14 pdglep_nuEvt -14 Enu_nuEvt 59245.899200 Plep_nuEvt 34668.498993 cc_nuEvt 0 x_nuEvt 9.471657 y_nuEvt 111.097064 z_nuEvt -436.426151 nhits 10299 ncharged hits 1639
+86 particles 
+28 primaries
+ id 58, charged
+stop z = -395200.000000
+   2ry daughter   602 Low energy, stop.
+   2ry daughter   601 Low energy, stop.
+ id 57, charged
+stop z = -436750.000000
+ id 54, charged
+stop z = -431600.000000
+ id 53, charged
+stop z = -413400.000000
+   2ry daughter  1923 Low energy, stop.
+ id 49, charged
+stop z = -435500.000000
+ id 48, charged
+stop z = -431600.000000
+   2ry daughter  4887 charged, follow down.
+stop z = -384800.000000
+ id 45, charged
+stop z = -436750.000000
+ id 44, charged
+stop z = -421200.000000
+ id 43, charged
+stop z = -436750.000000
+   2ry daughter  6727 Low energy, stop.
+   2ry daughter  6726 Low energy, stop.
+ id 40, charged
+stop z = -401700.000000
+ id 39, charged
+stop z = -436750.000000
+ id 38, charged
+stop z = -436750.000000
+ id 35, charged
+stop z = -248300.000000
+   2ry daughter 17572 Low energy, stop.
+   2ry daughter 17571 charged, follow down.
+stop z = -132600.000000
+    3ry daughter 17766 Low energy, stop.
+    3ry daughter 17765 Low energy, stop.
+    3ry daughter 17762 charged, follow down.
+stop z = -98800.000000
+     4ry daughter 19486 charged, follow down.
+stop z = 5200.000000
+      5ry daughter 20297 Low energy, stop.
+ id 34, charged
+stop z = -395200.000000
+   2ry daughter 20702 Low energy, stop.
+   2ry daughter 20701 Low energy, stop.
+   2ry daughter 20700 Low energy, stop.
+   2ry daughter 20699 Low energy, stop.
+ id 29, charged
+stop z = -436750.000000
+ id 28, charged
+stop z = -436750.000000
+ id 23, charged
+stop z = -436750.000000
+ id 22, charged
+stop z = -434200.000000
+ id 17, charged
+stop z = -435500.000000
+ id 16, charged
+stop z = -436750.000000
+   2ry daughter 27471 Low energy, stop.
+ id 12, charged
+stop z = -436750.000000
+ id 11, charged
+stop z = -435500.000000
+   2ry daughter 29281 Low energy, stop.
+ id 10, charged
+stop z = -435500.000000
+   2ry daughter 29683 Low energy, stop.
+ id 5, charged
+stop z = -436750.000000
+ id 4, charged
+stop z = -429000.000000
+ id 3, charged
+stop z = -430300.000000
+   2ry daughter 32318 charged, follow down.
+stop z = -425100.000000
+ id 2, charged
+stop z = -395200.000000
+   2ry daughter 32537 Low energy, stop.
+ id 1, charged
+stop z = -169000.000000
+   2ry daughter 34528 charged, follow down.
+stop z = -123500.000000
+   2ry daughter 34448 Low energy, stop.
+   2ry daughter 34447 Low energy, stop.
+   2ry daughter 34446 Low energy, stop.
+   2ry daughter 34445 Low energy, stop.
+   2ry daughter 34443 charged, follow down.
+stop z = -161200.000000
+    3ry daughter 39276 Low energy, stop.
+   2ry daughter 34442 charged, follow down.
+stop z = -89700.000000
+    3ry daughter 40221 Low energy, stop.
+[iev 3] 0 tracks reached the end of FASERnu
+
+
+
+
+ [[[[[ iev 4 ]]]]] nhits=10299 
+e_beam 0.000000 id_beam 0 x_beam 0.000000 y_beam 0.000000 pdgnu_nuEvt -14 pdglep_nuEvt -14 Enu_nuEvt 59245.899200 Plep_nuEvt 34668.498993 cc_nuEvt 0 x_nuEvt 9.471657 y_nuEvt 111.097064 z_nuEvt -436.426151 nhits 10299 ncharged hits 1639
+86 particles 
+28 primaries
+ id 58, charged
+stop z = -395200.000000
+   2ry daughter   602 Low energy, stop.
+   2ry daughter   601 Low energy, stop.
+ id 57, charged
+stop z = -436750.000000
+ id 54, charged
+stop z = -431600.000000
+ id 53, charged
+stop z = -413400.000000
+   2ry daughter  1923 Low energy, stop.
+ id 49, charged
+stop z = -435500.000000
+ id 48, charged
+stop z = -431600.000000
+   2ry daughter  4887 charged, follow down.
+stop z = -384800.000000
+ id 45, charged
+stop z = -436750.000000
+ id 44, charged
+stop z = -421200.000000
+ id 43, charged
+stop z = -436750.000000
+   2ry daughter  6727 Low energy, stop.
+   2ry daughter  6726 Low energy, stop.
+ id 40, charged
+stop z = -401700.000000
+ id 39, charged
+stop z = -436750.000000
+ id 38, charged
+stop z = -436750.000000
+ id 35, charged
+stop z = -248300.000000
+   2ry daughter 17572 Low energy, stop.
+   2ry daughter 17571 charged, follow down.
+stop z = -132600.000000
+    3ry daughter 17766 Low energy, stop.
+    3ry daughter 17765 Low energy, stop.
+    3ry daughter 17762 charged, follow down.
+stop z = -98800.000000
+     4ry daughter 19486 charged, follow down.
+stop z = 5200.000000
+      5ry daughter 20297 Low energy, stop.
+ id 34, charged
+stop z = -395200.000000
+   2ry daughter 20702 Low energy, stop.
+   2ry daughter 20701 Low energy, stop.
+   2ry daughter 20700 Low energy, stop.
+   2ry daughter 20699 Low energy, stop.
+ id 29, charged
+stop z = -436750.000000
+ id 28, charged
+stop z = -436750.000000
+ id 23, charged
+stop z = -436750.000000
+ id 22, charged
+stop z = -434200.000000
+ id 17, charged
+stop z = -435500.000000
+ id 16, charged
+stop z = -436750.000000
+   2ry daughter 27471 Low energy, stop.
+ id 12, charged
+stop z = -436750.000000
+ id 11, charged
+stop z = -435500.000000
+   2ry daughter 29281 Low energy, stop.
+ id 10, charged
+stop z = -435500.000000
+   2ry daughter 29683 Low energy, stop.
+ id 5, charged
+stop z = -436750.000000
+ id 4, charged
+stop z = -429000.000000
+ id 3, charged
+stop z = -430300.000000
+   2ry daughter 32318 charged, follow down.
+stop z = -425100.000000
+ id 2, charged
+stop z = -395200.000000
+   2ry daughter 32537 Low energy, stop.
+ id 1, charged
+stop z = -169000.000000
+   2ry daughter 34528 charged, follow down.
+stop z = -123500.000000
+   2ry daughter 34448 Low energy, stop.
+   2ry daughter 34447 Low energy, stop.
+   2ry daughter 34446 Low energy, stop.
+   2ry daughter 34445 Low energy, stop.
+   2ry daughter 34443 charged, follow down.
+stop z = -161200.000000
+    3ry daughter 39276 Low energy, stop.
+   2ry daughter 34442 charged, follow down.
+stop z = -89700.000000
+    3ry daughter 40221 Low energy, stop.
+[iev 4] 0 tracks reached the end of FASERnu
